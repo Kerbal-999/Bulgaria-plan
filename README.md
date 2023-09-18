@@ -29,3 +29,5 @@ You can write a short note if you like describing the change, but that's not rea
 Why are we using GitHub?
 GitHub offers a repository we all have access to, and can edit which also provides version control - meaning if someone screws something up, I can easily fix it, without destroying any progress we have made since. It means we have everything in one place. 
 Also, we can create timelines as well as other usefull  features offered by GitHub.
+
+You can find a timeline and todo list in the "projects" part of the site
